@@ -85,7 +85,6 @@ Focused on correctness, efficiency, and handling invalid inputs.
 ## 📫 Contact
 
 🔗 GitHub: https://github.com/asmitha-16  
-📧 Email: *(Add your email if you want recruiters to contact you)*  
 
 ---
 
