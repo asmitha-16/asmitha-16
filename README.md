@@ -1,91 +1,89 @@
-# Hi, I'm Asmitha 👋  
+Asmitha B
 
-🎓 **Computer Science and Design Student at Bannari Amman Institute of Technology (BIT)**  
-💻 Open Source Contributor | Frontend Developer 
+Design-driven frontend developer focused on clean code and real user impact.
 
----
+Computer Science & Design Undergraduate
+Frontend Developer | UI-Focused Engineer | Open Source Contributor
 
-## 🚀 About Me
+Professional Summary
 
-I am a **Computer Science and Design undergraduate at Bannari Amman Institute of Technology (BIT)** with a strong interest in **backend development, security, and open-source software**.
+Design-driven frontend developer with a strong foundation in HTML, CSS, and JavaScript, focused on building clean, responsive, and user-friendly interfaces. Experienced in working with real-world, production-level codebases through open-source contributions, developing a disciplined approach to code quality, validation, and usability.
 
-I actively contribute to real-world projects such as **WordPress Core and major open-source libraries**, focusing on:
-- Secure input handling  
-- Parameter sanitization  
-- Validation logic  
-- Fixing edge-case bugs in production systems  
+I enjoy translating design intent into functional, accessible UI components and building interfaces that perform reliably across real user scenarios. I value clean architecture, maintainable code, and meaningful user impact.
 
-I believe in writing **clean, safe, and scalable code** that can be used in real applications.
+Core Skills
+Frontend Development
 
----
+HTML5, CSS3, JavaScript
 
-## 🔧 Technical Skills
+Responsive & mobile-first UI design
 
-- **Languages:** PHP, Java, JavaScript, Python  
-- **Web Technologies:** WordPress, REST APIs, MySQL, HTML, CSS  
-- **Version Control:** Git, GitHub  
-- **Core Focus:**  
-  - Input validation & sanitization  
-  - Secure backend development  
-  - Debugging production issues  
+DOM manipulation & event handling
 
----
+Form handling and client-side validation
 
-## 🧠 Open Source Contributions
+Tools & Platforms
 
-I work on widely-used open-source projects and contribute meaningful fixes instead of cosmetic changes.
+Git, GitHub
 
-### ✅ Contributions
-- **WordPress Core:** Hardened REST request parameter sanitization  
-- **Jetpack:** Improved input handling and validation  
-- **Yoast SEO:** Secured sanitization for non-scalar inputs  
-- **Contact Form 7:** Strengthened request data validation  
-- **Axios:** Improved URL validation logic  
-- **TheAlgorithms (Java):** Fixed edge-case handling in algorithms  
+WordPress
 
----
+REST API integration
 
-## 📂 Academic & Personal Projects
+UI Strengths
 
-### 🧵 TexCare360 (JavaScript)
-A smart textile care and management platform that helps users:
-- Track fabric usage
-- Get maintenance guidance
-- Improve garment lifecycle  
-**Tech:** JavaScript, Web APIs  
+Clean and consistent layouts
 
----
+Usability-focused interface design
 
-### 🛡 CyberTriageTool (Python)
-A cybersecurity utility for:
-- Log analysis  
-- Suspicious activity detection  
-- Digital evidence triage  
-**Tech:** Python, Automation, File Handling  
+Debugging UI edge cases
 
----
+Understanding frontend–backend interaction
 
-### 📚 TheAlgorithms-Java (Open Source)
-Contributed algorithm implementations and bug fixes.  
-Focused on correctness, efficiency, and handling invalid inputs.  
-**Tech:** Java  
+Open Source Experience
 
----
+Actively contributed to large-scale open-source projects used by thousands of developers.
 
-## 📌 What I’m Interested In
+Improved validation and sanitization logic
 
-- Backend Development  
-- Secure Coding Practices  
-- Open Source Engineering  
-- REST API Design  
-- Validation, Sanitization & Input Security  
+Fixed edge-case bugs impacting real users
 
----
+Collaborated through professional code reviews
 
-## 📫 Contact
+Worked within established coding standards
 
-🔗 GitHub: https://github.com/asmitha-16  
+This experience strengthened my ability to write scalable, maintainable frontend-integrated code and work effectively in collaborative engineering environments.
 
----
+Projects
+TexCare360 — Frontend Web Application
 
-> I am passionate about learning through real-world engineering challenges and contributing to software used by thousands of developers.
+A smart textile care platform designed with a user-first approach.
+
+Built interactive UI features for tracking fabric usage
+
+Designed intuitive flows for maintenance guidance
+
+Focused on clarity, usability, and clean UI logic
+
+Tech: JavaScript, HTML, CSS, Web APIs
+
+CyberTriageTool — Academic Project
+
+A log analysis tool for detecting suspicious patterns.
+Enhanced my problem-solving, debugging, and analytical skills, which translate directly to handling complex UI flows.
+
+Areas of Interest
+
+Frontend & UI Development
+
+Interactive Web Applications
+
+User Experience & Accessibility
+
+Design Systems
+
+Open Source Engineering
+
+Contact
+
+🔗 GitHub: https://github.com/asmitha-16
