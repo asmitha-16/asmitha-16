@@ -1,89 +1,99 @@
-Asmitha B
+#  Asmitha B
 
-Design-driven frontend developer focused on clean code and real user impact.
+### Design-driven frontend developer focused on clean code and real user impact.
 
-Computer Science & Design Undergraduate
-Frontend Developer | UI-Focused Engineer | Open Source Contributor
+**Computer Science & Design Undergraduate**  
+ **Frontend Developer | UI-Focused Engineer | Open Source Contributor**
 
-Professional Summary
+> _I build interfaces that are clean, usable, and reliable in real-world scenarios._
 
-Design-driven frontend developer with a strong foundation in HTML, CSS, and JavaScript, focused on building clean, responsive, and user-friendly interfaces. Experienced in working with real-world, production-level codebases through open-source contributions, developing a disciplined approach to code quality, validation, and usability.
+---
 
-I enjoy translating design intent into functional, accessible UI components and building interfaces that perform reliably across real user scenarios. I value clean architecture, maintainable code, and meaningful user impact.
+##  Professional Summary
 
-Core Skills
-Frontend Development
+Design-driven **frontend developer** with a strong foundation in **HTML, CSS, and JavaScript**, focused on building **clean, responsive, and user-friendly interfaces**. Experienced in working with **production-level codebases** through open-source contributions, developing a disciplined approach to **code quality, validation, and usability**.
 
-HTML5, CSS3, JavaScript
+I enjoy translating design intent into **functional, accessible UI components** and building interfaces that perform reliably across real user scenarios.
 
-Responsive & mobile-first UI design
+> _I focus on UI that solves real problems, not just looks good._
 
-DOM manipulation & event handling
+---
 
-Form handling and client-side validation
+##  Core Skills
 
-Tools & Platforms
+### Frontend Development
+- HTML5, CSS3, JavaScript  
+- Responsive & mobile-first UI design  
+- DOM manipulation & event handling  
+- Form handling and client-side validation  
 
-Git, GitHub
+### Tools & Platforms
+- Git, GitHub  
+- WordPress  
+- REST API integration  
 
-WordPress
+### UI Strengths
+- Clean and consistent layouts  
+- Usability-first design decisions  
+- Debugging UI edge cases  
+- Frontend–backend coordination  
 
-REST API integration
+> _Design thinking backed by solid frontend engineering._
 
-UI Strengths
+---
 
-Clean and consistent layouts
+## 🌍 Open Source Experience
 
-Usability-focused interface design
+Actively contributed to **large-scale open-source projects** used by thousands of developers.
 
-Debugging UI edge cases
+- Improved validation and sanitization logic  
+- Fixed edge-case bugs impacting real users  
+- Collaborated through professional code reviews  
+- Worked with established coding standards  
 
-Understanding frontend–backend interaction
+> _Open source taught me how real software is built, reviewed, and shipped._
 
-Open Source Experience
+---
 
-Actively contributed to large-scale open-source projects used by thousands of developers.
+## 📂 Projects
 
-Improved validation and sanitization logic
+### 🧵 TexCare360 — Frontend Web Application
+A smart textile care platform built with a **user-first mindset**.
 
-Fixed edge-case bugs impacting real users
+- Interactive UI for tracking fabric usage  
+- Clean flows for maintenance guidance  
+- Focus on clarity and usability  
 
-Collaborated through professional code reviews
+**Tech:** JavaScript, HTML, CSS, Web APIs  
 
-Worked within established coding standards
+> _Designed to be simple, intuitive, and practical._
 
-This experience strengthened my ability to write scalable, maintainable frontend-integrated code and work effectively in collaborative engineering environments.
+---
 
-Projects
-TexCare360 — Frontend Web Application
+### 🛡 CyberTriageTool — Academic Project
+A log analysis tool for detecting suspicious activity.
 
-A smart textile care platform designed with a user-first approach.
+- Strengthened debugging and analytical skills  
+- Applied structured problem-solving techniques  
 
-Built interactive UI features for tracking fabric usage
+> _Built with correctness and reliability in mind._
 
-Designed intuitive flows for maintenance guidance
+---
 
-Focused on clarity, usability, and clean UI logic
+## 🎯 Areas of Interest
 
-Tech: JavaScript, HTML, CSS, Web APIs
+- Frontend & UI Development  
+- Interactive Web Applications  
+- User Experience & Accessibility  
+- Design Systems  
+- Open Source Engineering  
 
-CyberTriageTool — Academic Project
+> _Continuously improving through real-world learning._
 
-A log analysis tool for detecting suspicious patterns.
-Enhanced my problem-solving, debugging, and analytical skills, which translate directly to handling complex UI flows.
+---
 
-Areas of Interest
+## 📫 Contact
 
-Frontend & UI Development
+🔗 **GitHub:** https://github.com/asmitha-16  
 
-Interactive Web Applications
-
-User Experience & Accessibility
-
-Design Systems
-
-Open Source Engineering
-
-Contact
-
-🔗 GitHub: https://github.com/asmitha-16
+> _Open to frontend internships, UI roles, and collaborations._
