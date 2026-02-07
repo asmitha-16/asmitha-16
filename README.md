@@ -70,7 +70,7 @@ A smart textile care platform built with a **user-first mindset**.
 
 ---
 
-### 🛡 CyberTriageTool — Academic Project
+###  CyberTriageTool — Academic Project
 A log analysis tool for detecting suspicious activity.
 
 - Strengthened debugging and analytical skills  
