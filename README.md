@@ -42,7 +42,7 @@ I enjoy translating design intent into **functional, accessible UI components** 
 
 ---
 
-## 🌍 Open Source Experience
+##  Open Source Experience
 
 Actively contributed to **large-scale open-source projects** used by thousands of developers.
 
@@ -55,9 +55,9 @@ Actively contributed to **large-scale open-source projects** used by thousands o
 
 ---
 
-## 📂 Projects
+##  Projects
 
-### 🧵 TexCare360 — Frontend Web Application
+### TexCare360 — Frontend Web Application
 A smart textile care platform built with a **user-first mindset**.
 
 - Interactive UI for tracking fabric usage  
@@ -80,7 +80,7 @@ A log analysis tool for detecting suspicious activity.
 
 ---
 
-## 🎯 Areas of Interest
+##  Areas of Interest
 
 - Frontend & UI Development  
 - Interactive Web Applications  
@@ -92,7 +92,7 @@ A log analysis tool for detecting suspicious activity.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 🔗 **GitHub:** https://github.com/asmitha-16  
 
