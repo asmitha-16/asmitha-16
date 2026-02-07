@@ -1,7 +1,7 @@
 # Hi, I'm Asmitha 👋  
 
 🎓 **Computer Science and Design Student at Bannari Amman Institute of Technology (BIT)**  
-💻 Open Source Contributor | Backend Developer | Security-Focused Engineer  
+💻 Open Source Contributor | Frontend Developer 
 
 ---
 
